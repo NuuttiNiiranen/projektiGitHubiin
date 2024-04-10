@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b158a59-d036-4b2f-997f-e19ab8950a79" name="Changes" comment="Koko projekti kopioitu toisesta projektista githubia käyttävään projektiin">
+    <list default="true" id="8b158a59-d036-4b2f-997f-e19ab8950a79" name="Changes" comment="Lisätty javaDoc dokumentaatio">
+      <change afterPath="$PROJECT_DIR$/Autot.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/nuuttiniiranen/projektigithubiin/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/nuuttiniiranen/projektigithubiin/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Main.executor": "Run",
+    "Application.UI.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -75,11 +79,20 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1712670462409</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Lisätty javaDoc dokumentaatio">
+      <option name="closed" value="true" />
+      <created>1712671503561</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1712671503561</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Koko projekti kopioitu toisesta projektista githubia käyttävään projektiin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Koko projekti kopioitu toisesta projektista githubia käyttävään projektiin" />
+    <MESSAGE value="Lisätty javaDoc dokumentaatio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lisätty javaDoc dokumentaatio" />
   </component>
 </project>

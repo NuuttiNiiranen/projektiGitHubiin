@@ -2,6 +2,11 @@ package com.github.nuuttiniiranen.projektigithubiin;
 
 import javafx.application.Application;
 import javafx.stage.Stage;
+/**
+ * @author Nuutti Niiranen
+ * @version 1.0
+ * 10.4.2024
+ */
 
 /**
  * Tyhmä main luokka, josta ei tehdä muuta kuin käynnistetään aivan liian pitkä UI luokka.
